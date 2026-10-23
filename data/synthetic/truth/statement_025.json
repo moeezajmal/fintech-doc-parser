@@ -1,0 +1,192 @@
+{
+  "bank_name": "Pinecrest Credit Union",
+  "account_last4": "9687",
+  "period_start": "2025-09-01",
+  "period_end": "2025-09-30",
+  "opening_balance": "7401.24",
+  "closing_balance": "9398.30",
+  "transactions": [
+    {
+      "date": "2025-09-01",
+      "description": "COMCAST CABLE #5917",
+      "amount": "-89.99",
+      "balance": "7311.25",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-02",
+      "description": "CHIPOTLE",
+      "amount": "-21.73",
+      "balance": "7289.52",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1454.91",
+      "balance": "5834.61",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "SPOTIFY USA #3056",
+      "amount": "-10.99",
+      "balance": "5823.62",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-07",
+      "description": "CVS PHARMACY #5286",
+      "amount": "-10.32",
+      "balance": "5813.30",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "CVS PHARMACY",
+      "amount": "-39.04",
+      "balance": "5774.26",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "TRADER JOES #5028",
+      "amount": "-88.02",
+      "balance": "5686.24",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "TRADER JOES",
+      "amount": "-51.35",
+      "balance": "5634.89",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-11",
+      "description": "COMCAST CABLE #9104",
+      "amount": "-89.99",
+      "balance": "5544.90",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-12",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": "5529.41",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-13",
+      "description": "STARBUCKS #6959",
+      "amount": "-5.70",
+      "balance": "5523.71",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-14",
+      "description": "AMAZON MKTPLACE #4715",
+      "amount": "-75.95",
+      "balance": "5447.76",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-15",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2184.59",
+      "balance": "7632.35",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-15",
+      "description": "TRADER JOES",
+      "amount": "-65.08",
+      "balance": "7567.27",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-17",
+      "description": "CHIPOTLE #8405",
+      "amount": "-19.62",
+      "balance": "7547.65",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-19",
+      "description": "COMCAST CABLE #2121",
+      "amount": "-89.99",
+      "balance": "7457.66",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-20",
+      "description": "DOORDASH #6811",
+      "amount": "-35.02",
+      "balance": "7422.64",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-21",
+      "description": "UBER TRIP",
+      "amount": "-26.55",
+      "balance": "7396.09",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-25",
+      "description": "TRADER JOES #3542",
+      "amount": "-37.12",
+      "balance": "7358.97",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-26",
+      "description": "CHIPOTLE",
+      "amount": "-17.27",
+      "balance": "7341.70",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-26",
+      "description": "TARGET",
+      "amount": "-37.92",
+      "balance": "7303.78",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-26",
+      "description": "TARGET #7161",
+      "amount": "-61.19",
+      "balance": "7242.59",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-27",
+      "description": "TRADER JOES",
+      "amount": "-57.42",
+      "balance": "7185.17",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-27",
+      "description": "NETFLIX.COM #1398",
+      "amount": "-15.49",
+      "balance": "7169.68",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-27",
+      "description": "CVS PHARMACY",
+      "amount": "-12.59",
+      "balance": "7157.09",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-29",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2241.21",
+      "balance": "9398.30",
+      "source_page": 1
+    }
+  ]
+}

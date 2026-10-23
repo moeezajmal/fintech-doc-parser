@@ -1,0 +1,234 @@
+{
+  "bank_name": "Harbor Trust",
+  "account_last4": "9843",
+  "period_start": "2025-08-01",
+  "period_end": "2025-08-31",
+  "opening_balance": "6251.49",
+  "closing_balance": "7620.10",
+  "transactions": [
+    {
+      "date": "2025-08-01",
+      "description": "AMAZON MKTPLACE #6515",
+      "amount": "-98.92",
+      "balance": "6152.57",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-02",
+      "description": "SHELL OIL",
+      "amount": "-57.68",
+      "balance": "6094.89",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1648.55",
+      "balance": "4446.34",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-04",
+      "description": "TARGET #5823",
+      "amount": "-35.45",
+      "balance": "4410.89",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-05",
+      "description": "WHOLE FOODS MARKET #4077",
+      "amount": "-109.97",
+      "balance": "4300.92",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-06",
+      "description": "UBER TRIP",
+      "amount": "-30.91",
+      "balance": "4270.01",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-07",
+      "description": "TARGET #3382",
+      "amount": "-73.27",
+      "balance": "4196.74",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-09",
+      "description": "UBER TRIP",
+      "amount": "-15.68",
+      "balance": "4181.06",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-09",
+      "description": "TRADER JOES #7005",
+      "amount": "-60.73",
+      "balance": "4120.33",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-10",
+      "description": "SHELL OIL #8994",
+      "amount": "-40.62",
+      "balance": "4079.71",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-10",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-39.10",
+      "balance": "4040.61",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-11",
+      "description": "TARGET #8159",
+      "amount": "-45.81",
+      "balance": "3994.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-12",
+      "description": "CHIPOTLE #8518",
+      "amount": "-17.41",
+      "balance": "3977.39",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-13",
+      "description": "ZELLE PAYMENT FROM J SMITH",
+      "amount": "110.47",
+      "balance": "4087.86",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "TARGET",
+      "amount": "-43.32",
+      "balance": "4044.54",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "SHELL OIL #3395",
+      "amount": "-64.47",
+      "balance": "3980.07",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "SHELL OIL #106",
+      "amount": "-30.27",
+      "balance": "3949.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-15",
+      "description": "PG&E UTILITIES",
+      "amount": "-142.71",
+      "balance": "3807.09",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-16",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2085.43",
+      "balance": "5892.52",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-18",
+      "description": "AMAZON MKTPLACE #9007",
+      "amount": "-14.64",
+      "balance": "5877.88",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "UBER TRIP",
+      "amount": "-32.99",
+      "balance": "5844.89",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "DOORDASH #8979",
+      "amount": "-49.48",
+      "balance": "5795.41",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": "5705.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-22",
+      "description": "NETFLIX.COM #8528",
+      "amount": "-15.49",
+      "balance": "5689.93",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-22",
+      "description": "ATM WITHDRAWAL #9132",
+      "amount": "-50.05",
+      "balance": "5639.88",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-23",
+      "description": "TRADER JOES #9075",
+      "amount": "-58.48",
+      "balance": "5581.40",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-24",
+      "description": "CHIPOTLE",
+      "amount": "-15.78",
+      "balance": "5565.62",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-24",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-75.65",
+      "balance": "5489.97",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-25",
+      "description": "CHIPOTLE",
+      "amount": "-17.99",
+      "balance": "5471.98",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-26",
+      "description": "DOORDASH",
+      "amount": "-36.22",
+      "balance": "5435.76",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-27",
+      "description": "CHIPOTLE",
+      "amount": "-15.96",
+      "balance": "5419.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-30",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2200.30",
+      "balance": "7620.10",
+      "source_page": 1
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "bank_name": "Maple & Oak Bank",
+  "account_last4": "7056",
+  "period_start": "2025-01-01",
+  "period_end": "2025-01-31",
+  "opening_balance": "5444.74",
+  "closing_balance": "5910.18",
+  "transactions": [
+    {
+      "date": "2025-01-01",
+      "description": "PG&E UTILITIES #5015",
+      "amount": "-88.74",
+      "balance": "5356.00",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-01",
+      "description": "AMAZON MKTPLACE #5261",
+      "amount": "-102.06",
+      "balance": "5253.94",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-01",
+      "description": "WHOLE FOODS MARKET #3042",
+      "amount": "-132.16",
+      "balance": "5121.78",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-01",
+      "description": "CVS PHARMACY",
+      "amount": "-18.59",
+      "balance": "5103.19",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-02",
+      "description": "WHOLE FOODS MARKET #4116",
+      "amount": "-61.05",
+      "balance": "5042.14",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-02",
+      "description": "AMAZON MKTPLACE #9702",
+      "amount": "-52.91",
+      "balance": "4989.23",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1305.80",
+      "balance": "3683.43",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-03",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "3672.44",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-03",
+      "description": "NETFLIX.COM #6336",
+      "amount": "-15.49",
+      "balance": "3656.95",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-03",
+      "description": "CHIPOTLE",
+      "amount": "-18.87",
+      "balance": "3638.08",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-05",
+      "description": "STARBUCKS",
+      "amount": "-9.95",
+      "balance": "3628.13",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-06",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-97.89",
+      "balance": "3530.24",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-06",
+      "description": "TRADER JOES #5543",
+      "amount": "-72.30",
+      "balance": "3457.94",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-07",
+      "description": "UBER TRIP",
+      "amount": "-15.37",
+      "balance": "3442.57",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-07",
+      "description": "ATM WITHDRAWAL #3726",
+      "amount": "-26.95",
+      "balance": "3415.62",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-07",
+      "description": "SHELL OIL",
+      "amount": "-56.85",
+      "balance": "3358.77",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-08",
+      "description": "PG&E UTILITIES #3932",
+      "amount": "-147.51",
+      "balance": "3211.26",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-10",
+      "description": "SPOTIFY USA #1749",
+      "amount": "-10.99",
+      "balance": "3200.27",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-11",
+      "description": "SHELL OIL #7396",
+      "amount": "-62.16",
+      "balance": "3138.11",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-12",
+      "description": "STARBUCKS #1406",
+      "amount": "-6.07",
+      "balance": "3132.04",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-12",
+      "description": "SPOTIFY USA #1434",
+      "amount": "-10.99",
+      "balance": "3121.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-12",
+      "description": "DOORDASH #6471",
+      "amount": "-18.52",
+      "balance": "3102.53",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-13",
+      "description": "PG&E UTILITIES",
+      "amount": "-62.55",
+      "balance": "3039.98",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-14",
+      "description": "AMAZON MKTPLACE #5402",
+      "amount": "-91.48",
+      "balance": "2948.50",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-14",
+      "description": "PG&E UTILITIES",
+      "amount": "-116.41",
+      "balance": "2832.09",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-15",
+      "description": "ATM WITHDRAWAL #1066",
+      "amount": "-87.59",
+      "balance": "2744.50",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-16",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "1823.70",
+      "balance": "4568.20",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-17",
+      "description": "TRADER JOES #4848",
+      "amount": "-85.52",
+      "balance": "4482.68",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-17",
+      "description": "STARBUCKS #8918",
+      "amount": "-10.89",
+      "balance": "4471.79",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-18",
+      "description": "DOORDASH #3181",
+      "amount": "-30.62",
+      "balance": "4441.17",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-19",
+      "description": "DOORDASH #8032",
+      "amount": "-44.63",
+      "balance": "4396.54",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-20",
+      "description": "WHOLE FOODS MARKET #447",
+      "amount": "-52.30",
+      "balance": "4344.24",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-22",
+      "description": "STARBUCKS",
+      "amount": "-9.11",
+      "balance": "4335.13",
+      "source_page": 1
+    },
+    {
+      "date": "2025-01-22",
+      "description": "CVS PHARMACY #8367",
+      "amount": "-10.24",
+      "balance": "4324.89",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-23",
+      "description": "ATM WITHDRAWAL #8999",
+      "amount": "-137.08",
+      "balance": "4187.81",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-23",
+      "description": "AMAZON MKTPLACE #6154",
+      "amount": "-50.73",
+      "balance": "4137.08",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-24",
+      "description": "AMAZON MKTPLACE #2168",
+      "amount": "-93.04",
+      "balance": "4044.04",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-26",
+      "description": "DOORDASH #6657",
+      "amount": "-20.81",
+      "balance": "4023.23",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-26",
+      "description": "AMAZON MKTPLACE #3760",
+      "amount": "-43.19",
+      "balance": "3980.04",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-27",
+      "description": "TRADER JOES #4261",
+      "amount": "-59.26",
+      "balance": "3920.78",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-27",
+      "description": "AMAZON MKTPLACE #8223",
+      "amount": "-112.54",
+      "balance": "3808.24",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-27",
+      "description": "SHELL OIL",
+      "amount": "-73.59",
+      "balance": "3734.65",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-29",
+      "description": "SHELL OIL #4366",
+      "amount": "-70.45",
+      "balance": "3664.20",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-29",
+      "description": "CVS PHARMACY #5928",
+      "amount": "-16.03",
+      "balance": "3648.17",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-30",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2305.04",
+      "balance": "5953.21",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-30",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-16.55",
+      "balance": "5936.66",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-30",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "5925.67",
+      "source_page": 2
+    },
+    {
+      "date": "2025-01-30",
+      "description": "NETFLIX.COM #2851",
+      "amount": "-15.49",
+      "balance": "5910.18",
+      "source_page": 2
+    }
+  ]
+}

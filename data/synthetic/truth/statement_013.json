@@ -1,0 +1,388 @@
+{
+  "bank_name": "Maple & Oak Bank",
+  "account_last4": "9505",
+  "period_start": "2025-10-01",
+  "period_end": "2025-10-31",
+  "opening_balance": "6663.73",
+  "closing_balance": "6019.53",
+  "transactions": [
+    {
+      "date": "2025-10-02",
+      "description": "ATM WITHDRAWAL #2367",
+      "amount": "-38.73",
+      "balance": "6625.00",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-02",
+      "description": "TARGET #6622",
+      "amount": "-64.22",
+      "balance": "6560.78",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DOORDASH",
+      "amount": "-41.79",
+      "balance": "6518.99",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-02",
+      "description": "SPOTIFY USA #4937",
+      "amount": "-10.99",
+      "balance": "6508.00",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-02",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": "6492.51",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1730.09",
+      "balance": "4762.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-03",
+      "description": "AMAZON MKTPLACE #6680",
+      "amount": "-42.76",
+      "balance": "4719.66",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-04",
+      "description": "NETFLIX.COM #2168",
+      "amount": "-15.49",
+      "balance": "4704.17",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-04",
+      "description": "NETFLIX.COM #2179",
+      "amount": "-15.49",
+      "balance": "4688.68",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-07",
+      "description": "UBER TRIP",
+      "amount": "-32.54",
+      "balance": "4656.14",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-07",
+      "description": "CVS PHARMACY #4967",
+      "amount": "-14.10",
+      "balance": "4642.04",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-07",
+      "description": "SPOTIFY USA #6706",
+      "amount": "-10.99",
+      "balance": "4631.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-09",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-77.35",
+      "balance": "4553.70",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-09",
+      "description": "COMCAST CABLE #457",
+      "amount": "-89.99",
+      "balance": "4463.71",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-10",
+      "description": "SHELL OIL",
+      "amount": "-58.06",
+      "balance": "4405.65",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-11",
+      "description": "ATM WITHDRAWAL #5883",
+      "amount": "-196.67",
+      "balance": "4208.98",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-11",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-144.72",
+      "balance": "4064.26",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-13",
+      "description": "WHOLE FOODS MARKET #9436",
+      "amount": "-58.19",
+      "balance": "4006.07",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-14",
+      "description": "WHOLE FOODS MARKET #1349",
+      "amount": "-120.45",
+      "balance": "3885.62",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-14",
+      "description": "TARGET #8935",
+      "amount": "-48.02",
+      "balance": "3837.60",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-185.06",
+      "balance": "3652.54",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-14",
+      "description": "WHOLE FOODS MARKET #1308",
+      "amount": "-86.03",
+      "balance": "3566.51",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-15",
+      "description": "AMAZON MKTPLACE #3116",
+      "amount": "-13.24",
+      "balance": "3553.27",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-15",
+      "description": "NETFLIX.COM #1710",
+      "amount": "-15.49",
+      "balance": "3537.78",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ATM WITHDRAWAL #4161",
+      "amount": "-57.73",
+      "balance": "3480.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-16",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2007.65",
+      "balance": "5487.70",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-16",
+      "description": "WHOLE FOODS MARKET #1451",
+      "amount": "-65.90",
+      "balance": "5421.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-16",
+      "description": "TARGET #2756",
+      "amount": "-62.43",
+      "balance": "5359.37",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-17",
+      "description": "TRADER JOES #7971",
+      "amount": "-83.85",
+      "balance": "5275.52",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-17",
+      "description": "UBER TRIP #3530",
+      "amount": "-26.86",
+      "balance": "5248.66",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-18",
+      "description": "TARGET",
+      "amount": "-26.02",
+      "balance": "5222.64",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-19",
+      "description": "SPOTIFY USA #5005",
+      "amount": "-10.99",
+      "balance": "5211.65",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-20",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-53.91",
+      "balance": "5157.74",
+      "source_page": 1
+    },
+    {
+      "date": "2025-10-21",
+      "description": "CHIPOTLE",
+      "amount": "-17.45",
+      "balance": "5140.29",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ATM WITHDRAWAL #6554",
+      "amount": "-35.56",
+      "balance": "5104.73",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-22",
+      "description": "CVS PHARMACY #1789",
+      "amount": "-9.87",
+      "balance": "5094.86",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-22",
+      "description": "UBER TRIP",
+      "amount": "-13.07",
+      "balance": "5081.79",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ATM WITHDRAWAL #8670",
+      "amount": "-135.16",
+      "balance": "4946.63",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-24",
+      "description": "UBER TRIP #6602",
+      "amount": "-9.00",
+      "balance": "4937.63",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-24",
+      "description": "SHELL OIL",
+      "amount": "-35.66",
+      "balance": "4901.97",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-24",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-61.21",
+      "balance": "4840.76",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-25",
+      "description": "WHOLE FOODS MARKET #7838",
+      "amount": "-120.89",
+      "balance": "4719.87",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-26",
+      "description": "AMAZON MKTPLACE #284",
+      "amount": "-57.16",
+      "balance": "4662.71",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-26",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-63.67",
+      "balance": "4599.04",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-27",
+      "description": "UBER TRIP #3236",
+      "amount": "-10.90",
+      "balance": "4588.14",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-28",
+      "description": "TRADER JOES #4431",
+      "amount": "-87.60",
+      "balance": "4500.54",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-28",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-47.25",
+      "balance": "4453.29",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-28",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-91.69",
+      "balance": "4361.60",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-28",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "4350.61",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-29",
+      "description": "WHOLE FOODS MARKET #3733",
+      "amount": "-31.86",
+      "balance": "4318.75",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-30",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "1936.29",
+      "balance": "6255.04",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-30",
+      "description": "COMCAST CABLE #8943",
+      "amount": "-89.99",
+      "balance": "6165.05",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-30",
+      "description": "ATM WITHDRAWAL #1081",
+      "amount": "-79.95",
+      "balance": "6085.10",
+      "source_page": 2
+    },
+    {
+      "date": "2025-10-31",
+      "description": "SHELL OIL #1716",
+      "amount": "-65.57",
+      "balance": "6019.53",
+      "source_page": 2
+    }
+  ]
+}

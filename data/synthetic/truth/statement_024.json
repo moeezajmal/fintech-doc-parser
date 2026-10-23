@@ -1,0 +1,374 @@
+{
+  "bank_name": "Northwind Savings",
+  "account_last4": "4224",
+  "period_start": "2025-06-01",
+  "period_end": "2025-06-30",
+  "opening_balance": "8164.09",
+  "closing_balance": "9302.12",
+  "transactions": [
+    {
+      "date": "2025-06-01",
+      "description": "TARGET #2230",
+      "amount": "-49.20",
+      "balance": "8114.89",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-01",
+      "description": "STARBUCKS",
+      "amount": "-5.39",
+      "balance": "8109.50",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-118.49",
+      "balance": "7991.01",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "CHIPOTLE",
+      "amount": "-19.44",
+      "balance": "7971.57",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "NETFLIX.COM #9994",
+      "amount": "-15.49",
+      "balance": "7956.08",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1307.81",
+      "balance": "6648.27",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "DOORDASH #7747",
+      "amount": "-52.16",
+      "balance": "6596.11",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "CVS PHARMACY",
+      "amount": "-29.28",
+      "balance": "6566.83",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "SHELL OIL #4052",
+      "amount": "-71.03",
+      "balance": "6495.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-04",
+      "description": "DOORDASH #7688",
+      "amount": "-47.75",
+      "balance": "6448.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-05",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "6437.06",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "ATM WITHDRAWAL #8510",
+      "amount": "-27.84",
+      "balance": "6409.22",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "CVS PHARMACY #7765",
+      "amount": "-6.08",
+      "balance": "6403.14",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "SPOTIFY USA #9506",
+      "amount": "-10.99",
+      "balance": "6392.15",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "6381.16",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-07",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": "6291.17",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-07",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "6280.18",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-08",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "6269.19",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-08",
+      "description": "PG&E UTILITIES #6083",
+      "amount": "-137.97",
+      "balance": "6131.22",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-09",
+      "description": "STARBUCKS",
+      "amount": "-9.89",
+      "balance": "6121.33",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-09",
+      "description": "DOORDASH",
+      "amount": "-41.80",
+      "balance": "6079.53",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-09",
+      "description": "TRADER JOES",
+      "amount": "-83.12",
+      "balance": "5996.41",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-11",
+      "description": "UBER TRIP",
+      "amount": "-29.91",
+      "balance": "5966.50",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-11",
+      "description": "WHOLE FOODS MARKET #2481",
+      "amount": "-129.28",
+      "balance": "5837.22",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-11",
+      "description": "TARGET",
+      "amount": "-30.43",
+      "balance": "5806.79",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-12",
+      "description": "AMAZON MKTPLACE #9765",
+      "amount": "-91.05",
+      "balance": "5715.74",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-12",
+      "description": "STARBUCKS #9428",
+      "amount": "-7.71",
+      "balance": "5708.03",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-12",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": "5692.54",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-14",
+      "description": "UBER TRIP #2822",
+      "amount": "-15.76",
+      "balance": "5676.78",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-14",
+      "description": "SPOTIFY USA #1744",
+      "amount": "-10.99",
+      "balance": "5665.79",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-15",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2494.75",
+      "balance": "8160.54",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-15",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-41.90",
+      "balance": "8118.64",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-15",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": "8028.65",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-16",
+      "description": "SHELL OIL",
+      "amount": "-33.20",
+      "balance": "7995.45",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-16",
+      "description": "DOORDASH",
+      "amount": "-39.74",
+      "balance": "7955.71",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-17",
+      "description": "CVS PHARMACY #8545",
+      "amount": "-16.96",
+      "balance": "7938.75",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-19",
+      "description": "UBER TRIP #8876",
+      "amount": "-9.52",
+      "balance": "7929.23",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-19",
+      "description": "CHIPOTLE",
+      "amount": "-21.63",
+      "balance": "7907.60",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-19",
+      "description": "SHELL OIL #7569",
+      "amount": "-74.94",
+      "balance": "7832.66",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-19",
+      "description": "DOORDASH",
+      "amount": "-30.75",
+      "balance": "7801.91",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-20",
+      "description": "TRADER JOES",
+      "amount": "-39.07",
+      "balance": "7762.84",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-20",
+      "description": "STARBUCKS #6044",
+      "amount": "-7.62",
+      "balance": "7755.22",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-24",
+      "description": "ZELLE PAYMENT FROM J SMITH",
+      "amount": "42.36",
+      "balance": "7797.58",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-24",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": "7782.09",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-25",
+      "description": "COMCAST CABLE #7373",
+      "amount": "-89.99",
+      "balance": "7692.10",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-25",
+      "description": "PG&E UTILITIES #7031",
+      "amount": "-63.84",
+      "balance": "7628.26",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-28",
+      "description": "TARGET #1508",
+      "amount": "-63.90",
+      "balance": "7564.36",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-28",
+      "description": "TARGET",
+      "amount": "-64.77",
+      "balance": "7499.59",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-29",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "1956.28",
+      "balance": "9455.87",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-29",
+      "description": "NETFLIX.COM #473",
+      "amount": "-15.49",
+      "balance": "9440.38",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-30",
+      "description": "WHOLE FOODS MARKET #9700",
+      "amount": "-75.77",
+      "balance": "9364.61",
+      "source_page": 3
+    },
+    {
+      "date": "2025-06-30",
+      "description": "PG&E UTILITIES #958",
+      "amount": "-62.49",
+      "balance": "9302.12",
+      "source_page": 3
+    }
+  ]
+}

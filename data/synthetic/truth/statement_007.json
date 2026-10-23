@@ -1,0 +1,374 @@
+{
+  "bank_name": "Maple & Oak Bank",
+  "account_last4": "4905",
+  "period_start": "2025-08-01",
+  "period_end": "2025-08-31",
+  "opening_balance": "7336.86",
+  "closing_balance": "7845.78",
+  "transactions": [
+    {
+      "date": "2025-08-01",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-32.75",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-01",
+      "description": "DOORDASH #1030",
+      "amount": "-37.71",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1579.67",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-03",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-03",
+      "description": "TRADER JOES #3669",
+      "amount": "-78.63",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-04",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-84.96",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-05",
+      "description": "STARBUCKS #8464",
+      "amount": "-8.35",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-05",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-05",
+      "description": "WHOLE FOODS MARKET",
+      "amount": "-98.74",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-06",
+      "description": "STARBUCKS",
+      "amount": "-9.35",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-07",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-10",
+      "description": "WHOLE FOODS MARKET #4651",
+      "amount": "-57.46",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-11",
+      "description": "DOORDASH",
+      "amount": "-20.45",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-12",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-12",
+      "description": "CHIPOTLE #4393",
+      "amount": "-12.67",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-12",
+      "description": "CHIPOTLE",
+      "amount": "-13.82",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-13",
+      "description": "SHELL OIL",
+      "amount": "-40.01",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-13",
+      "description": "STARBUCKS #1733",
+      "amount": "-7.52",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-13",
+      "description": "TARGET #1479",
+      "amount": "-51.70",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-13",
+      "description": "PG&E UTILITIES #4016",
+      "amount": "-133.29",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "TARGET",
+      "amount": "-41.70",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "TRADER JOES",
+      "amount": "-73.03",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-14",
+      "description": "TARGET",
+      "amount": "-60.70",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-15",
+      "description": "WHOLE FOODS MARKET #1375",
+      "amount": "-30.65",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-16",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2288.15",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-17",
+      "description": "TRADER JOES #4022",
+      "amount": "-51.16",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-17",
+      "description": "CHIPOTLE",
+      "amount": "-17.17",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-18",
+      "description": "DOORDASH #7431",
+      "amount": "-31.87",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-20",
+      "description": "PG&E UTILITIES #7046",
+      "amount": "-92.50",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-20",
+      "description": "TARGET #6669",
+      "amount": "-17.86",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "SPOTIFY USA #439",
+      "amount": "-10.99",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "DOORDASH #2301",
+      "amount": "-27.97",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "TRADER JOES",
+      "amount": "-85.52",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "DOORDASH #3770",
+      "amount": "-37.40",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "PG&E UTILITIES #3891",
+      "amount": "-71.67",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "CHIPOTLE #6056",
+      "amount": "-12.93",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-21",
+      "description": "STARBUCKS #5501",
+      "amount": "-7.71",
+      "balance": null,
+      "source_page": 1
+    },
+    {
+      "date": "2025-08-22",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-50.34",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-22",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-23",
+      "description": "SHELL OIL",
+      "amount": "-48.02",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-24",
+      "description": "COMCAST CABLE #8687",
+      "amount": "-89.99",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-25",
+      "description": "WHOLE FOODS MARKET #3436",
+      "amount": "-86.35",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-26",
+      "description": "CHIPOTLE #8957",
+      "amount": "-19.22",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-27",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-27",
+      "description": "ATM WITHDRAWAL #1209",
+      "amount": "-80.36",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-29",
+      "description": "ATM WITHDRAWAL #5520",
+      "amount": "-122.81",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-29",
+      "description": "NETFLIX.COM #7169",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-30",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2040.66",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-30",
+      "description": "COMCAST CABLE #7046",
+      "amount": "-89.99",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-30",
+      "description": "NETFLIX.COM",
+      "amount": "-15.49",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-30",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": null,
+      "source_page": 2
+    },
+    {
+      "date": "2025-08-31",
+      "description": "COMCAST CABLE #6734",
+      "amount": "-89.99",
+      "balance": null,
+      "source_page": 2
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "bank_name": "Northwind Savings",
+  "account_last4": "7723",
+  "period_start": "2025-06-01",
+  "period_end": "2025-06-30",
+  "opening_balance": "6279.45",
+  "closing_balance": "7828.85",
+  "transactions": [
+    {
+      "date": "2025-06-01",
+      "description": "UBER TRIP",
+      "amount": "-32.40",
+      "balance": "6247.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-124.70",
+      "balance": "6122.35",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "TRADER JOES",
+      "amount": "-43.61",
+      "balance": "6078.74",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1422.64",
+      "balance": "4656.10",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-04",
+      "description": "UBER TRIP #4730",
+      "amount": "-26.56",
+      "balance": "4629.54",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-83.95",
+      "balance": "4545.59",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "AMAZON MKTPLACE #4100",
+      "amount": "-36.79",
+      "balance": "4508.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-09",
+      "description": "TRADER JOES #5452",
+      "amount": "-38.02",
+      "balance": "4470.78",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-09",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-72.35",
+      "balance": "4398.43",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-10",
+      "description": "ATM WITHDRAWAL #8160",
+      "amount": "-56.19",
+      "balance": "4342.24",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "STARBUCKS #5955",
+      "amount": "-4.96",
+      "balance": "4337.28",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-15",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2267.88",
+      "balance": "6605.16",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-15",
+      "description": "DOORDASH #1043",
+      "amount": "-26.49",
+      "balance": "6578.67",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "STARBUCKS #9163",
+      "amount": "-10.38",
+      "balance": "6568.29",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-17",
+      "description": "SHELL OIL #4638",
+      "amount": "-41.24",
+      "balance": "6527.05",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-17",
+      "description": "TRADER JOES",
+      "amount": "-22.63",
+      "balance": "6504.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-18",
+      "description": "PG&E UTILITIES #6552",
+      "amount": "-62.29",
+      "balance": "6442.13",
+      "source_page": 1
+    },
+    {
+      "date": "2025-06-19",
+      "description": "PG&E UTILITIES #5357",
+      "amount": "-121.33",
+      "balance": "6320.80",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-19",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-140.64",
+      "balance": "6180.16",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-21",
+      "description": "TARGET #9013",
+      "amount": "-27.18",
+      "balance": "6152.98",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-21",
+      "description": "STARBUCKS #4972",
+      "amount": "-10.78",
+      "balance": "6142.20",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-22",
+      "description": "CVS PHARMACY",
+      "amount": "-28.59",
+      "balance": "6113.61",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-22",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-23.94",
+      "balance": "6089.67",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-22",
+      "description": "DOORDASH",
+      "amount": "-35.73",
+      "balance": "6053.94",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-23",
+      "description": "SPOTIFY USA #9119",
+      "amount": "-10.99",
+      "balance": "6042.95",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-24",
+      "description": "CHIPOTLE #3414",
+      "amount": "-20.85",
+      "balance": "6022.10",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-24",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-105.36",
+      "balance": "5916.74",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-26",
+      "description": "NETFLIX.COM #1971",
+      "amount": "-15.49",
+      "balance": "5901.25",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-27",
+      "description": "DOORDASH",
+      "amount": "-31.09",
+      "balance": "5870.16",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-27",
+      "description": "SHELL OIL #2638",
+      "amount": "-36.85",
+      "balance": "5833.31",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-27",
+      "description": "ATM WITHDRAWAL #7946",
+      "amount": "-184.47",
+      "balance": "5648.84",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-28",
+      "description": "COMCAST CABLE #5311",
+      "amount": "-89.99",
+      "balance": "5558.85",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-28",
+      "description": "DOORDASH",
+      "amount": "-52.49",
+      "balance": "5506.36",
+      "source_page": 2
+    },
+    {
+      "date": "2025-06-29",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2322.49",
+      "balance": "7828.85",
+      "source_page": 2
+    }
+  ]
+}

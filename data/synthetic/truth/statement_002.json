@@ -1,0 +1,521 @@
+{
+  "bank_name": "First Fake Bank",
+  "account_last4": "9456",
+  "period_start": "2025-09-01",
+  "period_end": "2025-09-30",
+  "opening_balance": "5342.65",
+  "closing_balance": "3683.54",
+  "transactions": [
+    {
+      "date": "2025-09-01",
+      "description": "DOORDASH #7878",
+      "amount": "-44.57",
+      "balance": "5298.08",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-01",
+      "description": "STARBUCKS",
+      "amount": "-6.71",
+      "balance": "5291.37",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-01",
+      "description": "STARBUCKS",
+      "amount": "-10.95",
+      "balance": "5280.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-02",
+      "description": "TARGET #8586",
+      "amount": "-34.63",
+      "balance": "5245.79",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-02",
+      "description": "NETFLIX.COM #7217",
+      "amount": "-15.49",
+      "balance": "5230.30",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "RENT PAYMENT",
+      "amount": "-1733.72",
+      "balance": "3496.58",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "PG&E UTILITIES #6620",
+      "amount": "-66.81",
+      "balance": "3429.77",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "CVS PHARMACY",
+      "amount": "-11.96",
+      "balance": "3417.81",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-23.61",
+      "balance": "3394.20",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "WHOLE FOODS MARKET #9343",
+      "amount": "-57.00",
+      "balance": "3337.20",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "SPOTIFY USA",
+      "amount": "-10.99",
+      "balance": "3326.21",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "PG&E UTILITIES",
+      "amount": "-127.56",
+      "balance": "3198.65",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "ATM WITHDRAWAL #3248",
+      "amount": "-191.29",
+      "balance": "3007.36",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "DOORDASH #9410",
+      "amount": "-46.76",
+      "balance": "2960.60",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-05",
+      "description": "DOORDASH #6086",
+      "amount": "-20.58",
+      "balance": "2940.02",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-06",
+      "description": "PG&E UTILITIES #9188",
+      "amount": "-116.10",
+      "balance": "2823.92",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-06",
+      "description": "TRADER JOES",
+      "amount": "-85.86",
+      "balance": "2738.06",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-06",
+      "description": "NETFLIX.COM #4183",
+      "amount": "-15.49",
+      "balance": "2722.57",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-07",
+      "description": "CVS PHARMACY",
+      "amount": "-19.66",
+      "balance": "2702.91",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "COMCAST CABLE #3206",
+      "amount": "-89.99",
+      "balance": "2612.92",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "CVS PHARMACY #5689",
+      "amount": "-23.84",
+      "balance": "2589.08",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "PG&E UTILITIES #229",
+      "amount": "-89.26",
+      "balance": "2499.82",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "TRADER JOES",
+      "amount": "-55.50",
+      "balance": "2444.32",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "WHOLE FOODS MARKET #9062",
+      "amount": "-72.80",
+      "balance": "2371.52",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "CHIPOTLE #515",
+      "amount": "-20.73",
+      "balance": "2350.79",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-09",
+      "description": "SPOTIFY USA #6155",
+      "amount": "-10.99",
+      "balance": "2339.80",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-09",
+      "description": "ATM WITHDRAWAL #6167",
+      "amount": "-42.08",
+      "balance": "2297.72",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "UBER TRIP",
+      "amount": "-17.33",
+      "balance": "2280.39",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-11",
+      "description": "ZELLE PAYMENT FROM J SMITH",
+      "amount": "105.46",
+      "balance": "2385.85",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-11",
+      "description": "TRADER JOES #8364",
+      "amount": "-48.43",
+      "balance": "2337.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-12",
+      "description": "TRADER JOES #828",
+      "amount": "-72.97",
+      "balance": "2264.45",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-13",
+      "description": "PG&E UTILITIES #9532",
+      "amount": "-129.85",
+      "balance": "2134.60",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-14",
+      "description": "DOORDASH #1472",
+      "amount": "-24.18",
+      "balance": "2110.42",
+      "source_page": 1
+    },
+    {
+      "date": "2025-09-15",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "1812.82",
+      "balance": "3923.24",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-15",
+      "description": "AMAZON MKTPLACE",
+      "amount": "-55.28",
+      "balance": "3867.96",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-15",
+      "description": "UBER TRIP",
+      "amount": "-30.02",
+      "balance": "3837.94",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-15",
+      "description": "STARBUCKS #3081",
+      "amount": "-4.68",
+      "balance": "3833.26",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-15",
+      "description": "WHOLE FOODS MARKET #3724",
+      "amount": "-76.93",
+      "balance": "3756.33",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-16",
+      "description": "TARGET #5868",
+      "amount": "-50.24",
+      "balance": "3706.09",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-17",
+      "description": "TRADER JOES #5794",
+      "amount": "-29.39",
+      "balance": "3676.70",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-17",
+      "description": "CHIPOTLE #5402",
+      "amount": "-17.35",
+      "balance": "3659.35",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-17",
+      "description": "PG&E UTILITIES #4837",
+      "amount": "-136.71",
+      "balance": "3522.64",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-17",
+      "description": "TARGET #7395",
+      "amount": "-85.77",
+      "balance": "3436.87",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-18",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-199.81",
+      "balance": "3237.06",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-19",
+      "description": "STARBUCKS",
+      "amount": "-10.65",
+      "balance": "3226.41",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-19",
+      "description": "STARBUCKS #1609",
+      "amount": "-7.28",
+      "balance": "3219.13",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-19",
+      "description": "TRADER JOES #9858",
+      "amount": "-33.77",
+      "balance": "3185.36",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-20",
+      "description": "TARGET #8360",
+      "amount": "-70.70",
+      "balance": "3114.66",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-20",
+      "description": "PG&E UTILITIES #579",
+      "amount": "-66.69",
+      "balance": "3047.97",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-20",
+      "description": "TARGET #4843",
+      "amount": "-84.77",
+      "balance": "2963.20",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-21",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": "2873.21",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-21",
+      "description": "SHELL OIL #3030",
+      "amount": "-41.86",
+      "balance": "2831.35",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-21",
+      "description": "PG&E UTILITIES",
+      "amount": "-137.32",
+      "balance": "2694.03",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-22",
+      "description": "ATM WITHDRAWAL",
+      "amount": "-170.89",
+      "balance": "2523.14",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-22",
+      "description": "TARGET",
+      "amount": "-53.96",
+      "balance": "2469.18",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-22",
+      "description": "CVS PHARMACY #371",
+      "amount": "-24.20",
+      "balance": "2444.98",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-23",
+      "description": "DOORDASH",
+      "amount": "-46.70",
+      "balance": "2398.28",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-23",
+      "description": "WHOLE FOODS MARKET #311",
+      "amount": "-79.67",
+      "balance": "2318.61",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UBER TRIP #9361",
+      "amount": "-26.68",
+      "balance": "2291.93",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-24",
+      "description": "PG&E UTILITIES #9310",
+      "amount": "-132.77",
+      "balance": "2159.16",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-25",
+      "description": "COMCAST CABLE",
+      "amount": "-89.99",
+      "balance": "2069.17",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-27",
+      "description": "WHOLE FOODS MARKET #1002",
+      "amount": "-103.51",
+      "balance": "1965.66",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-27",
+      "description": "SPOTIFY USA #5504",
+      "amount": "-10.99",
+      "balance": "1954.67",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-28",
+      "description": "PG&E UTILITIES",
+      "amount": "-144.25",
+      "balance": "1810.42",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-28",
+      "description": "CVS PHARMACY #6549",
+      "amount": "-7.31",
+      "balance": "1803.11",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-29",
+      "description": "PAYROLL DEPOSIT ACME CORP",
+      "amount": "2173.95",
+      "balance": "3977.06",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-29",
+      "description": "PG&E UTILITIES",
+      "amount": "-142.25",
+      "balance": "3834.81",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-29",
+      "description": "TARGET",
+      "amount": "-19.51",
+      "balance": "3815.30",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-29",
+      "description": "NETFLIX.COM #9071",
+      "amount": "-15.49",
+      "balance": "3799.81",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-29",
+      "description": "STARBUCKS",
+      "amount": "-3.55",
+      "balance": "3796.26",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-30",
+      "description": "AMAZON MKTPLACE #1233",
+      "amount": "-21.46",
+      "balance": "3774.80",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-30",
+      "description": "WHOLE FOODS MARKET #4268",
+      "amount": "-69.81",
+      "balance": "3704.99",
+      "source_page": 2
+    },
+    {
+      "date": "2025-09-30",
+      "description": "CHIPOTLE #7393",
+      "amount": "-21.45",
+      "balance": "3683.54",
+      "source_page": 3
+    }
+  ]
+}
