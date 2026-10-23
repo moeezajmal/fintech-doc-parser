@@ -59,3 +59,9 @@ A running log of key choices and why I made them.
 ## 20206-10-23: Synthetic data only in the repo
 - `data/real/` is git-ignored. Only generated data is committed.
 - Why: no real PII in a public repo, per the fintech checklist.
+
+ ## 2026-10-23: pdfplumber for PDF text extraction
+- Using pdfplumber, with PyMuPDF as the fallback if it causes problems.
+- Why: it gives text and word positions with simple code, and the position
+  data is needed for layouts like debit_credit where plain text loses which
+  column an amount was in.
